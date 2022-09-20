@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="photo">photo</string>
+    <string name="bonjour">Bonjour</string>
+    <string name="chronom_tre">Chronomètre</string>
+    <string name="chronometre">chronomètre</string>
+    <string name="bonjours">bonjour</string>
+    <string name="photos">photo</string>
+</resources>
