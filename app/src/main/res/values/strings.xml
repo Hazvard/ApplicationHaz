@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">HazvardAPK</string>
     <string name="photo">photo</string>
     <string name="bonjour">Bonjour</string>
     <string name="chronom_tre">Chronomètre</string>
     <string name="chronometre">chronomètre</string>
     <string name="bonjours">bonjour</string>
     <string name="photos">photo</string>
+    <string name="todo">TODO</string>
+    <string name="todoo">TODO</string>
 </resources>
